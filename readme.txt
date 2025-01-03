@@ -1,0 +1,1 @@
+con la tecla "a" te mueves hacia la izquierda
