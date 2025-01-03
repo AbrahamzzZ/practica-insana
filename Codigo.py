@@ -8,8 +8,11 @@ print("Hola "+nombre+" "+apellido+", Como estas?")
 a = 8
 b = 10
 c = 6
+d = 7
 resultado = 0
 resultado = a + b
 print("El resultado es: ", resultado)
 resultado = c - a
+print("El resultado es: ", resultado)
+resultado = d * b
 print("El resultado es: ", resultado)
